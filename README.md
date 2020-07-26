@@ -1,9 +1,10 @@
 
 
 <p align="center">
-	<a href="https://github.com/venkywarriors"><img src="https://img.shields.io/github/followers/venkywarriors.svg?label=GitHub&style=social" alt="GitHub"></a>
-<!--	<a href="https://www.facebook.com/619venky"><img src="https://img.shields.io/twitter/follow/NyashaNziboi?label=Twitter&style=social" alt="Twitter"></a>  -->
-	<a href="https://in.linkedin.com/in/venkateshwara-doijode"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a title="github" href="https://github.com/venkywarriors"><img src="https://img.shields.io/github/followers/venkywarriors.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a title="facebook" href="https://www.facebook.com/619venky"><img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook" alt="Facebook"></a> 
+	<a title="Instagram" href="https://www.instagram.com/venkateshwara_rao/"><img src="https://img.shields.io/badge/Instagram-lightpink?style=flat&logo=Instagram" alt="Instagram"></a>
+	<a title="linkedin" href="https://in.linkedin.com/in/venkateshwara-doijode"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
 <br/>
 </p>
 
