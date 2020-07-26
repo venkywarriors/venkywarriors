@@ -1,4 +1,4 @@
-
+# Hi, I'm Venkateshwara Rao Doijode 👋🏾 🏾‍💻
 
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
@@ -18,11 +18,11 @@
 	<img src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
 
-Hi 👋🏾, I'm Venkateshwara Doijode and I am a Software Engineer based in India.
+I am a Software Engineer based in India.
 
 Some technologies I enjoy working with are Python, Django, Selenium Java & Python, SQL.
 
 I am also a Bachelor of Engineering in Computer Science.
-
+<img align="left" src="https://github.com/venkywarriors/venkywarriors/blob/master/dino.gif"></a>
 
 
