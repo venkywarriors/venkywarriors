@@ -16,7 +16,7 @@ product quality.
 - Enhanced Regression Test Cases to implement complex testing scenarios, increased permeations of Functionality
 Testing and increased code coverage using Selenium.
 - Participating proactively in daily standup meetings, story grooming sessions, team retrospectives, suggesting and
-implementing improvements
+implementing improvements <br>
 ***Some technologies I enjoy working with are Python, Django, Selenium Java & Python, SQL.***
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
