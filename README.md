@@ -23,6 +23,6 @@ I am a Software Engineer based in India.
 Some technologies I enjoy working with are Python, Django, Selenium Java & Python, SQL.
 
 I am also a Bachelor of Engineering in Computer Science.
-<img align="left" src="https://github.com/venkywarriors/venkywarriors/blob/master/dino.gif"></a>
+<img align="left" src="https://github.com/venkywarriors/venkywarriors/blob/master/output_Ae34Kd.gif"></a>
 
 
