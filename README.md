@@ -29,7 +29,7 @@ implementing improvements <br>
 </p>
 
 <p align="center">
-	Python · Django · SQL · Selenium · Testim.io · AI Automation
+	Python:snake: · Django · SQL · Selenium · Testim.io · AI Automation
 </p>
 
 <p align="center">
