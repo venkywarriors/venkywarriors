@@ -17,6 +17,7 @@ product quality.
 Testing and increased code coverage using Selenium.
 - Participating proactively in daily standup meetings, story grooming sessions, team retrospectives, suggesting and
 implementing improvements
+***Some technologies I enjoy working with are Python, Django, Selenium Java & Python, SQL.***
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
 	<a title="github" href="https://github.com/venkywarriors"><img src="https://img.shields.io/github/followers/venkywarriors.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -34,9 +35,3 @@ implementing improvements
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p>
-
-***Some technologies I enjoy working with are Python, Django, Selenium Java & Python, SQL.***
-
-
-
-
