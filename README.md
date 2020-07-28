@@ -29,7 +29,7 @@ implementing improvements <br>
 </p>
 
 <p align="center">
-	Python:snake: · Django · SQL · Selenium · Testim.io · AI Automation
+	Python:snake:·Java:coffee:·Django·Docker:whale2:·SQL·Selenium:heavy_check_mark:·Testim.io:bust_in_silhouette:·AI Automation:robot:
 </p>
 
 <p align="center">
