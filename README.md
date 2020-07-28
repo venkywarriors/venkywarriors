@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github.com/venkywarriors/venkywarriors/blob/master/output_Ae34Kd.gif"></a>
 
-***I am a Software Engineer:briefcase: in :india: and also a Bachelor of Engineering in Computer Science:mortar_board:***
+***I am a Software Engineer:briefcase: in :india: and also a Bachelor of Engineering in Computer Science:man_student:***
 - Over 4 Years of experience in design, development, testing, implementation of client – server Architecture and
 DevOps CI/CD pipelines.
 - Good experience in developing web applications implementing Model View Control architecture using Django &
