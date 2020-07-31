@@ -7,17 +7,19 @@
 DevOps CI/CD pipelines.
 - Good experience in developing web applications implementing Model View Control architecture using Django &
 Hands-on coding experience in scripting language- Java and Python.
-- Extensive knowledge of Software Development Life Cycle (SDLC) including Agile, Waterfall Methodology.
-- Good experience in comprehensive testing of various applications– Web applications, Web Services & Windowbased applications.
-- Taking responsibility for monitoring product development and usage at all levels with an eye toward improving
-product quality.
 - Proficient in developing Continuous Integration/Delivery pipelines.
-- Experience with automation/integration tools like Jenkins and Team City.
-- Enhanced Regression Test Cases to implement complex testing scenarios, increased permeations of Functionality
-Testing and increased code coverage using Selenium.
-- Participating proactively in daily standup meetings, story grooming sessions, team retrospectives, suggesting and
-implementing improvements <br>
-***Some technologies I enjoy working with are Python, Django, Selenium Java & Python, SQL.***
+- Perform unit testing and system integration testing of the newly developed functionality
+- Implement and test modifications to existing application modules in accordance with application support and industry standard
+- Strong teamwork skills and ability to work independently
+- Solid understanding of relational database and SOA concepts
+- Working knowledge of HTML, HTTP, REST, SOAP, XML, CSS and Javascript
+- Good understanding of UNIX system internals and UNIX administration skills
+- Data stores/tools: Oracle, PostgreSQL, SQLAlchemy, Redis, MongoDB, Solr
+- Tools: Virtualenv, Buildout, py.test, Ansible, Selenium
+- Async: Twisted, asyncio
+- Virtualization: AWS, VMWare, VirtualBox, Docker
+<br>
+***Some technologies I enjoy working with are Python, Django, Selenium Java & Python, SQL, Jenkins, Rest Assured, Docker, Zalenium, Git.***
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
 	<a title="github" href="https://github.com/venkywarriors"><img src="https://img.shields.io/github/followers/venkywarriors.svg?label=GitHub&style=social" alt="GitHub"></a>
