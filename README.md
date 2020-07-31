@@ -19,7 +19,8 @@ Hands-on coding experience in scripting language- Java and Python.
 - Async: Twisted, asyncio
 - Virtualization: AWS, VMWare, VirtualBox, Docker
 <br>
-***Some technologies I enjoy working with are Python, Django, Selenium Java & Python, SQL, Jenkins, Rest Assured, Docker, Zalenium, Git.***
+***Some technologies
+I enjoy working with are Python, Django, Selenium Java & Python, SQL, Jenkins, Rest Assured, Docker, Zalenium, Git.***
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
 	<a title="github" href="https://github.com/venkywarriors"><img src="https://img.shields.io/github/followers/venkywarriors.svg?label=GitHub&style=social" alt="GitHub"></a>
