@@ -18,7 +18,7 @@ Hands-on coding experience in scripting language- Java and Python.
 - Tools: Virtualenv, Buildout, py.test, Ansible, Selenium
 - Async: Twisted, asyncio
 - Virtualization: AWS, VMWare, VirtualBox, Docker
-<br>
+
 ***Some technologies
 I enjoy working with are Python, Django, Selenium Java & Python, SQL, Jenkins, Rest Assured, Docker, Zalenium, Git.***
 <p align="center">
