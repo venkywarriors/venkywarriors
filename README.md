@@ -23,7 +23,7 @@ Hands-on coding experience in scripting language- Java and Python.
 <p align="left">
 <img align="left" title="Python" alt="Python" width="26px" src="http://www.pngmart.com/files/7/Python-PNG-Image.png" />
 <img align="left" title="Selenium" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
-<img align="left" title="Java" alt="Java" width="45px" src="https://www.pinpng.com/pngs/m/668-6684224_java-hd-png-download.png" />
+<img align="left" title="Java" alt="Java" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/Java.jpg" />
 <img align="left" title="django" alt="django" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/django.png" />
 <img align="left" title="Docker" alt="Docker" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" />
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/sql.jpg" />
