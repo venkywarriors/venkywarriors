@@ -32,13 +32,19 @@ Hands-on coding experience in scripting language- Java and Python.
 <img align="left" title="jenkins" alt="jenkins" width="24px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/jenkins.png" />
 <img align="left" title="zalenium" alt="zalenium" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/zalenium.png" />
 <img align="left" title="Rest-assured" alt="Rest-assured" width="30px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/Rest-assured-logo.png" />
+<img align="left" title="appium" alt="appium" width="26px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/appium.png" />
+<img align="left" title="cucumber" alt="cucumber" width="26px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/cucumber.png" />
+<img align="left" title="jira" alt="jira" width="24px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/jira.jpg" />
+<img align="left" title="CI/CD" alt="CI/CD" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/CI.jpg" />
+<img align="left" title="Junit" alt="Junit" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/Junit.jpg" />
+<img align="left" alt="testng" title="testng" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/testng.jpg" />	
 </p>
 <br/>
 <!-- <p align="center">
 	<img title="venky's GitHub stack" src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p> -->	
 <p align="center">
-	<img title="venky's GitHub stack" align="center" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
+	<img align="center" title="venky's GitHub stack" align="center" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
 </p> 
 <br/>
 <p align="center">
