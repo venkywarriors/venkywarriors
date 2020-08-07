@@ -19,6 +19,19 @@ Hands-on coding experience in scripting language- Java and Python.
 - Async: Twisted, asyncio
 - Virtualization: AWS, VMWare, VirtualBox, Docker
 
+<br />
+
+### Languages and Tools:
+<p align="left">
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br/>
+</p>
+
 ***Some technologies
 I enjoy working with are Python, Django, Selenium Java & Python, SQL, Jenkins, Rest Assured, Docker, Zalenium, Git.***
 <p align="center">
@@ -34,10 +47,9 @@ I enjoy working with are Python, Django, Selenium Java & Python, SQL, Jenkins, R
 <p align="center">
 	Python:snake:·Java:coffee:·Django·Docker:whale2:·SQL·Selenium:heavy_check_mark:·Testim.io:bust_in_silhouette:·AI Automation:robot:
 </p>
-
-<p align="center">
+<!-- <p align="center">
 	<img title="venky's GitHub stack" src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
-	---
+</p> -->	
 
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
-</p>
+
