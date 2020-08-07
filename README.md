@@ -18,7 +18,6 @@ Hands-on coding experience in scripting language- Java and Python.
 - Tools: Virtualenv, Buildout, py.test, Ansible, Selenium
 - Async: Twisted, asyncio
 - Virtualization: AWS, VMWare, VirtualBox, Docker
-
 <br />
 
 ### Languages and Tools:
@@ -31,12 +30,11 @@ Hands-on coding experience in scripting language- Java and Python.
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/sql.jpg" />
 <img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" title="jenkins" alt="jenkins" width="26px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/jenkins.png" />
+<img align="left" title="jenkins" alt="jenkins" width="24px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/jenkins.png" />
 <img align="left" title="zalenium" alt="zalenium" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/zalenium.png" />
-<img align="left" title="Rest-assured" alt="Rest-assured" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/Rest-assured-logo.png" />
-<br/>
+<img align="left" title="Rest-assured" alt="Rest-assured" width="30px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/Rest-assured-logo.png" />
 </p>
-
+<br/>
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
 	<a title="github" href="https://github.com/venkywarriors"><img src="https://img.shields.io/github/followers/venkywarriors.svg?label=GitHub&style=social" alt="GitHub"></a>
