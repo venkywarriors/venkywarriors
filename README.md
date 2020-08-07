@@ -1,7 +1,7 @@
 # Hi, I'm Venkateshwara Rao Doijode 👋🏾 🏾‍💻
 
 <img title="Venkateshwara Doijode" align="left" src="https://github.com/venkywarriors/venkywarriors/blob/master/output_Ae34Kd.gif"></a>
-
+<br />
 ***I am a Software Engineer:briefcase: in India:india: and also a Bachelor of Engineering in Computer Science:man_student:***
 - Over 4 Years of experience in design, development, testing, implementation of client – server Architecture and
 DevOps CI/CD pipelines.
@@ -37,4 +37,7 @@ I enjoy working with are Python, Django, Selenium Java & Python, SQL, Jenkins, R
 
 <p align="center">
 	<img title="venky's GitHub stack" src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
+	---
+
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
 </p>
