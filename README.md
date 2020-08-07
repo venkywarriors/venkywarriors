@@ -18,7 +18,6 @@ Hands-on coding experience in scripting language- Java and Python.
 - Tools: Virtualenv, Buildout, py.test, Ansible, Selenium
 - Async: Twisted, asyncio
 - Virtualization: AWS, VMWare, VirtualBox, Docker
-<br />
 
 ### Languages and Tools:
 <p align="left">
@@ -35,6 +34,13 @@ Hands-on coding experience in scripting language- Java and Python.
 <img align="left" title="Rest-assured" alt="Rest-assured" width="30px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/Rest-assured-logo.png" />
 </p>
 <br/>
+<!-- <p align="center">
+	<img title="venky's GitHub stack" src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
+</p> -->	
+<p align="center">
+	<img title="venky's GitHub stack" align="center" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
+</p> 
+<br/>
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
 	<a title="github" href="https://github.com/venkywarriors"><img src="https://img.shields.io/github/followers/venkywarriors.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -42,16 +48,5 @@ Hands-on coding experience in scripting language- Java and Python.
 	<a title="Instagram" href="https://www.instagram.com/venkateshwara_rao/"><img src="https://img.shields.io/badge/Instagram-lightpink?style=flat&logo=Instagram" alt="Instagram"></a>
 	<a title="linkedin" href="https://in.linkedin.com/in/venkateshwara-doijode"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a title="Telegram Messenger" href="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg"><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
-<br/>
 </p>
-<!--<p align="center">
-	Python:snake:·Java:coffee:·Django·Docker:whale2:·SQL·Selenium:heavy_check_mark:·Testim.io:bust_in_silhouette:·AI Automation:robot:
-</p>
- <p align="center">
-	<img title="venky's GitHub stack" src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
-</p> -->	
-<p align="center">
-	<img title="venky's GitHub stack" align="center" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
-</p> 
-
 
