@@ -23,11 +23,14 @@ Hands-on coding experience in scripting language- Java and Python.
 
 ### Languages and Tools:
 <p align="left">
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" title="Python" alt="Python" width="26px" src="http://www.pngmart.com/files/7/Python-PNG-Image.png" />
+<img align="left" title="Selenium" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
+<img align="left" title="Java" alt="Java" width="45px" src="https://www.pinpng.com/pngs/m/668-6684224_java-hd-png-download.png" />
+<img align="left" title="Java" alt="Java" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/django.png" />
+<img align="left" title="Docker" alt="Docker" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/docker-logo-png-transparent.png" />
+<img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br/>
 </p>
@@ -43,13 +46,14 @@ I enjoy working with are Python, Django, Selenium Java & Python, SQL, Jenkins, R
 	<a title="Telegram Messenger" href="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg"><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
 <br/>
 </p>
-
-<p align="center">
+<!--<p align="center">
 	Python:snake:·Java:coffee:·Django·Docker:whale2:·SQL·Selenium:heavy_check_mark:·Testim.io:bust_in_silhouette:·AI Automation:robot:
 </p>
-<!-- <p align="center">
+ <p align="center">
 	<img title="venky's GitHub stack" src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
 </p> -->	
+<p align="center">
+	<img title="venky's GitHub stack" align="center" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
+</p> 
 
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
 
