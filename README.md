@@ -19,7 +19,7 @@ Hands-on coding experience in scripting language- Java and Python.
 - Async: Twisted, asyncio
 - Virtualization: AWS, VMWare, VirtualBox, Docker
 
-### Languages and Tools:
+## 🔧 Technologies & Tools
 <p align="left">
 <img align="left" title="Python" alt="Python" width="26px" src="http://www.pngmart.com/files/7/Python-PNG-Image.png" />
 <img align="left" title="Selenium" alt="Selenium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
