@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/wave.gif" width="30px">, I'm Venkateshwara Rao Doijode 💻
+# Hi <img src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/wave.gif" width="30px"> I'm Venkateshwara Rao Doijode 💻<img src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/unnamed.gif" width="30px">
 
 <img title="Venkateshwara Doijode" align="left" src="https://github.com/venkywarriors/venkywarriors/blob/master/output_Ae34Kd.gif"></a>
 <br />
