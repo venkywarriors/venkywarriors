@@ -40,14 +40,11 @@ Hands-on coding experience in scripting language- Java and Python.
 <img align="left" alt="testng" title="testng" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/testng.jpg" />	
 </p>
 <br/>
- 	
+ 
+ ## &#x1f4c8; GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venkywarriors&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-<!-- <p align="center">
-	<img align="center" title="venky's GitHub stack" align="center" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
-</p> -->
 <br/>
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
@@ -57,4 +54,5 @@ Hands-on coding experience in scripting language- Java and Python.
 	<a title="linkedin" href="https://in.linkedin.com/in/venkateshwara-doijode"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a title="Telegram Messenger" href="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg"><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
 </p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
