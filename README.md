@@ -54,3 +54,8 @@ Hands-on coding experience in scripting language- Java and Python.
 	<a title="linkedin" href="https://in.linkedin.com/in/venkateshwara-doijode"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a title="Telegram Messenger" href="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg"><img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png"></a>
 </p>
+<details>
+  <summary>:zap: Game Slot</summary>
+  <img align="left"  src="https://github.com/venkywarriors/venkywarriors/blob/master/dino.gif" />
+
+</details>
