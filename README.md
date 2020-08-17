@@ -40,12 +40,14 @@ Hands-on coding experience in scripting language- Java and Python.
 <img align="left" alt="testng" title="testng" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/testng.jpg" />	
 </p>
 <br/>
+ 	
+![Github Stats](https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 <!-- <p align="center">
-	<img title="venky's GitHub stack" src="https://github-readme-stats.vercel.app/api/?username=venkywarriors&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
-</p> -->	
-<p align="center">
 	<img align="center" title="venky's GitHub stack" align="center" src="https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true" />
-</p> 
+</p> -->
 <br/>
 <p align="center">
 	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
