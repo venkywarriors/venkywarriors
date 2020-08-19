@@ -40,6 +40,7 @@ Hands-on coding experience in scripting language- Java and Python.
 <img align="left" alt="testng" title="testng" width="45px" src="https://github.com/venkywarriors/venkywarriors/blob/master/Logos/testng.jpg" />	
 </p>
 <br/>
+<br/>
  
  ## &#x1f4c8; GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=venkywarriors&show_icons=true&hide_border=true&count_private=true)
