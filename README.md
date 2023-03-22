@@ -48,7 +48,7 @@ Hands-on coding experience in scripting language- Java and Python.
 
 <br/>
 <p align="center">
-	<a title="WhatsApp" href="https://commons.wikimedia.org/wiki/File:WhatsApp_logo.svg"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
+	<a title="WhatsApp" href="https://wa.me/9094117324"><img width="80" alt="WhatsApp logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/128px-WhatsApp_logo.svg.png"></a>
 	<a title="github" href="https://github.com/venkywarriors"><img src="https://img.shields.io/github/followers/venkywarriors.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a title="facebook" href="https://www.facebook.com/619venky"><img src="https://img.shields.io/badge/Facebook-lightblue?style=flat&logo=facebook" alt="Facebook"></a> 
 	<a title="Instagram" href="https://www.instagram.com/venkateshwara_rao/"><img src="https://img.shields.io/badge/Instagram-lightpink?style=flat&logo=Instagram" alt="Instagram"></a>
