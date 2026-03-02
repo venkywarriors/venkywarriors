@@ -17,7 +17,7 @@ Software Test Analyst with 9+ years of experience in **QA automation, DevOps CI/
 - **Performance Testing:** JMeter  
 - **DevOps & CI/CD:** Jenkins, TeamCity, Git, Subversion  
 - **Bug Tracking:** JIRA, Redmine, Mantis, HP ALM  
-- **Certifications:** ISTQB, Selenium WebDriver & TestNG  
+- **Certifications:** ISTQB, Selenium WebDriver & TestNG, Gen AI 
 
 ---
 
