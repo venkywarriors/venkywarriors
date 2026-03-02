@@ -11,8 +11,9 @@ Software Test Analyst with 9+ years of experience in **QA automation, DevOps CI/
 ---
 
 ## 🛠️ Tools & Techniques
-- **Languages/Frameworks:** Java, Python Django, SQL, JSON  
-- **Automation Tools:** Selenium (Java/Python), Appium (iOS/Android), Postman, Rest Assured  
+- **Languages/Frameworks:** Java, Python, SQL, JSON  
+- **Automation Tools:** Selenium (Java/Python), Appium (iOS/Android), Postman, Rest Assured
+                        Shell scripting, security testing, playwright, contract testing, A/B Testing 
 - **Performance Testing:** JMeter  
 - **DevOps & CI/CD:** Jenkins, TeamCity, Git, Subversion  
 - **Bug Tracking:** JIRA, Redmine, Mantis, HP ALM  
