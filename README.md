@@ -45,6 +45,3 @@ Software Test Analyst with 9+ years of experience in **QA automation, DevOps CI/
 
 ---
 
-## 📫 Contact
-- **Email:** venkateshdoijode1@gmail.com  
-- **Phone:** +91-9094117324
